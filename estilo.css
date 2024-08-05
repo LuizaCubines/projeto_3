@@ -1,0 +1,47 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&family=Fjalla+One&family=Viga&display=Itim&family=Luckiest+Guy&display=swap');
+
+
+body{
+background-color: rgb(255, 238, 131);
+}
+
+.fonte1{
+    color: rgb(15, 83, 1);
+    font-size: 50px;
+    font-family: "Luckiest Guy", cursive; 
+}
+
+.fonte2{
+    color: rgb(25, 0, 107);
+    font-size: 35px;
+    font-family: "Itim", cursive; 
+}
+
+.fonte3{
+    color: rgb(25, 0, 107);
+    font-size: 20px;
+    font-family:"Fjalla One", sans-serif;
+}
+
+.fonte4{
+    color: rgb(25, 0, 107);
+    font-size: 20px;
+    font-family: "Viga", sans-serif;
+}
+
+.fonte5{
+    color: rgb(25, 0, 107);
+    font-size: 20px;
+    font-family: "Nanum Gothic Coding", monospace;
+}
+
+.box {
+	width: 100px;
+	display: inline-block;
+    margin-left: 220px;
+}
+
+
+
+
